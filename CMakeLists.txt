@@ -1,5 +1,5 @@
-# cmake_minimum_required(VERSION 3.6) #maybe ok?
-cmake_minimum_required(VERSION 3.17)
+cmake_minimum_required(VERSION 3.6) #maybe ok?
+#cmake_minimum_required(VERSION 3.17)
 
 # Needed since 3.19.4; not sure why...
 cmake_policy(SET CMP0053 NEW)
